@@ -28,14 +28,14 @@ export default function Home() {
 
           <h3>안드로이드 버전</h3>
           <ul>
-            <li>"Google OTP" 검색 및 다운로드</li>
+            <li>[Google OTP] 검색 및 다운로드</li>
             <li>시작 클릭 및 계정 추가</li>
             <li>바코드 스캔 선택 후 이메일 내용 QR코드 스캔</li>
             <li>인트라넷 비밀번호 아래 OTP 코드에 생성된 6자리코드 입력 후 로그인</li>
           </ul>
           <h3>iOS 버전</h3>
           <ul>
-            <li>"Google Authenticator" 검색 및 다운로드</li>
+            <li>[Google Authenticator] 검색 및 다운로드</li>
             <li>시작 클릭 및 계정 추가</li>
             <li>바코드 스캔 선택 후 이메일 내용 QR코드 스캔</li>
             <li>인트라넷 비밀번호 아래 OTP 코드에 생성된 6자리코드 입력 후 로그인</li>
